@@ -1,0 +1,46 @@
+.header-section{
+   background-color: #0099ff;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-left: 50px;
+   padding-right: 50px;
+}
+.name{
+   color:white;
+}
+.designation{
+   color:#181818;
+}
+.projects-section{
+  background-color: Cyan;
+
+}
+.skill-section{
+  background-color: white;
+  padding-left:70px;
+  padding-right:50px;
+  padding-bottom: 20px;
+}
+.dev{
+  background-color:yellow;
+}
+.res{
+  background-color: Cyan;
+}
+.envi{
+  background-color:yellow;
+}
+.footer-section{
+  background-color: #0099ff;
+  padding-left:50px;
+  padding-right:50px;
+}
+.link{
+  padding-left: 50px;
+  padding-right:50px;
+  color:black;
+  transition: all .5s ease-in-out;
+}
+.link:hover{
+  transform: scale(1.5);
+}
